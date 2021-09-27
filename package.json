@@ -3,6 +3,7 @@
   "description": "My web app for the Free Code Camp",
 	"name": "fcc-learn-npm-package-json",
   "license": "MIT",
+  "version": "1.0",
   "keywords": ["Phillip Dews", "freecodecamp", "jsonobject"],
 	"dependencies": {
 		"express": "^4.14.0"
