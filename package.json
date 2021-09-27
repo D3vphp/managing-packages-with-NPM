@@ -1,11 +1,12 @@
 {
   "author": "Phillip Dews",
+  "description": "My web app for the Free Code Camp",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"scripts": {
+  "scripts": {
 		"start": "node server.js"
 	},
   "engines":{
